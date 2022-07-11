@@ -1,6 +1,4 @@
-"""""
-# Exercício 1
-
+""""" # Exercício 1
 Faça um programa que receba dois números e, usando condicionais, mostre o maior. Se por acaso os dois números forem iguais, imprima a mensagem "Números iguais".
 """
 
